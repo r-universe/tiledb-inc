@@ -1,10 +1,21 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tiledb-inc/universe
 	shallow = true
 	branch = HEAD
 [submodule "tiledb"]
 	path = tiledb
-	url = https://github.com/tiledb-inc/tiledb-r
+	url = https://github.com/TileDB-Inc/TileDB-R
 	shallow = true
+	registered = true
+[submodule "tiledbcloud"]
+	path = tiledbcloud
+	url = https://github.com/TileDB-Inc/TileDB-Cloud-R
+	shallow = true
+	registered = true
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/single-cell-data/TileDB-SOMA
+	shallow = true
+	subdir = apis/r
 	registered = true
