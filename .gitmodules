@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tiledb-inc/universe
+	url = https://github.com/tiledb-inc/tiledb-inc.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "arch"]
