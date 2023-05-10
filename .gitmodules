@@ -3,11 +3,6 @@
 	url = https://github.com/tiledb-inc/tiledb-inc.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "arch"]
-	path = arch
-	url = https://github.com/eddelbuettel/arch
-	shallow = true
-	registered = true
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
