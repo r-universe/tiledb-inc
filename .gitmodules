@@ -17,6 +17,6 @@
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
 	shallow = true
-	branch = *release
+	branch = 1.2.7
 	subdir = apis/r
 	registered = true
