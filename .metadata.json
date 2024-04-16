@@ -1,9 +1,5 @@
 [
   {
-    "package": "tiledb",
-    "releasetag": true
-  },
-  {
     "package": "tiledbsoma",
     "releasetag": true
   }
