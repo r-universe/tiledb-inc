@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/tiledb-inc/tiledb-inc.r-universe.dev
 	branch = HEAD
+[submodule "pbmc3k.sce"]
+	path = pbmc3k.sce
+	url = https://github.com/mojaveazure/pbmc3k-sce
+[submodule "pbmc3k.tiledb"]
+	path = pbmc3k.tiledb
+	url = https://github.com/eddelbuettel/pbmc3k.tiledb
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
